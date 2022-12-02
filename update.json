@@ -1,0 +1,18 @@
+{
+    "RequestType": "UPDATE",
+    "RequestBody": {
+      "CodexList": [],
+      "DetachmentList": [],
+      "TroopList": [],
+      "WeaponList": [],
+      "WeaponAbilityList": [],
+      "SkillList": [
+        {
+          "Id": "63875a500c2e7cbe4b29d950",
+          "Name": "Fireball2",
+          "Notes": "You're a wizard Harry UPDATED"
+        }
+      ]
+    }
+  }
+  

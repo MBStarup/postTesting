@@ -1,0 +1,11 @@
+{
+    "RequestType": "READ_STRICT",
+    "RequestBody": {
+        "CodexList": [],
+        "DetachmentList": [],
+        "TroopList": [{ "Id": 111 }],
+        "WeaponList": [],
+        "WeaponAbilityList": [],
+        "SkillList": []
+    }
+}

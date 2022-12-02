@@ -1,0 +1,18 @@
+{
+  "RequestType": "INSERT",
+  "RequestBody": {
+    "CodexList": [
+      {
+        "Id": "d",
+        "Name": "Codex with detachment with troops with weapons",
+        "Notes": "You gotta have a wizard dude, it's like a rule or something.",
+        "DetachmentIds": ["63873740e33838c81fee5c19"]
+      }
+    ],
+    "DetachmentList": [],
+    "TroopList": [],
+    "WeaponList": [],
+    "WeaponAbilityList": [],
+    "SkillList": []
+  }
+}

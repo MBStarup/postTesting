@@ -1,0 +1,25 @@
+{
+  "RequestType": "INSERT",
+  "RequestBody": {
+    "CodexList": [],
+    "DetachmentList": [],
+    "TroopList": [
+      {
+        "Id": "z",
+        "Name": "Troop With Weapons",
+        "Notes": "Has a long white beard",
+        "Save": "a6",
+        "MoveRange": 0,
+        "CAF": 0,
+        "TroopType": "Person",
+        "WeaponSlots": 1,
+        "WeaponOptionIds": ["638736fee33838c81fee5c17", "638736fee33838c81fee5c17"],
+        "WeaponIds": ["638736fee33838c81fee5c17", "638736fee33838c81fee5c17"],
+        "SkillIds": []
+      }
+    ],
+    "WeaponList": [],
+    "WeaponAbilityList": [],
+    "SkillList": []
+  }
+}

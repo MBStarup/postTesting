@@ -1,0 +1,22 @@
+{
+  "RequestType": "INSERT",
+  "RequestBody": {
+    "CodexList": [],
+    "DetachmentList": [
+      {
+        "Id": "10",
+        "Name": "detachment with troops with weapons",
+        "Notes": "Just a couple of chill fellas",
+        "Cost": 200,
+        "PointsOfCommandment": 10,
+        "BreakPoints": 9,
+        "Morale": 8,
+        "TroopIds": ["63873712e33838c81fee5c18", "63873712e33838c81fee5c18"]
+      }
+    ],
+    "TroopList": [],
+    "WeaponList": [],
+    "WeaponAbilityList": [],
+    "SkillList": []
+  }
+}
